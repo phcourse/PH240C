@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{ph240c-materials.html}
+= PH C240C/STAT C245C| Fall 2021
+*Biostatistical Methods: Computational Statistics with Application in Biology and Medicine*
+
+== Course materials
+
+- Lecture notes: listed in class schedule section
+
+- Lab materials
+-- [notes/PH240C-Lab01.pdf Lab01] and [notes/glm_svm.R R-Code]
+-- [notes/PH240C-Lab02.pdf Lab02] and [notes/Tree-Missing.R R-Code]
+-- [notes/multi-armed.pdf Lab03] and [notes/multi-armed.Rmd R-Code]
+Some resources regarding multi-armed bandit: [notes/bandits.pdf MAB]
+
+- Assignments
+-- [hw/Homework-1.pdf Homework01], [hw/heart_disease.csv dataset], [hw/hw1-sol.pdf hw1-sol]. Due: Sep 22nd in class
+-- [hw/Homework-2.pdf Homework02], [hw/dataHW2.Rda dataset], [hw/hw2-sol.pdf hw2-sol]. Due: Oct 19th 7pm at bcourses
+
+
+== Suggested Readings
+
+No main textbook for this course. The following are recommendations:
+
+- Computer Age Statistical Inference, Efron and Hastie(2016)
+
+- Machine learning: A Probabilistic Perspective, Murphy(2012)
+
+- Dynamic Treatment Regimes: Statistical Methods for Precision Medicine, Tsiatis(2019)
+
+- Personalizing Precision Medicine: A Global Voyage from Vision to Reality, Pothier(2017)
+
+- Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again? Topol(2019)

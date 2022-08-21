@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{ph240c.html}
+= PH C240C/STAT C245C| Fall 2021
+*Biostatistical Methods: Computational Statistics with Application in Biology and Medicine*
+
+== Course Description
+
+Machine learning algorithms are widely applied in our daily lives.
+The overarching goal of this course is to provide students
+with an overview and hands-on experiences of popular ML methods
+adopted in the healthcare system and medical research.
+
+== Course Information
+
+- Instruction mode: hybrid (in-person participation is strongly recommended)
+
+
+- [https://sites.google.com/berkeley.edu/jingshenwang
+ Prof. Jingshen Wang] (Instructor)
+
+-- 5408 Berkeley Way West, Berkeley, CA 94720
+
+-- Office Hours:  Friday 1-2pm
+
+-- Email [jingshenwang@berkeley.edu]
+
+- Lei Shi (GSI)
+
+-- Office Hours: Thursday 4-5pm
+
+-- Email [leishi@berkeley.edu]
+
+
+- Course schedule (Google Calendar link):
+
+-- Lectures: Wed 6:00 PM - 8:59 PM,  Genetics & Plant Bio 103
+
+-- Labs: Tue 4:00 PM - 6:00 PM, 334 Evans Hall(also on zoom), \n
+
+Generally biweekly, first one starts on Sep. 14 \n
+
+(Check the [ph240c-calendar.html calendar] for details)
+
+-- Final Presentation: Dec. 08
+
+- Zoom links:
+
+-- [https://berkeley.zoom.us/j/91685917686?pwd=VTJ5bWlmN2R1SjFqbTRVZUZmZEZsZz09 Lectures]
+
+-- [https://www.google.com/url?q=https://berkeley.zoom.us/j/95370160428?pwd%3DaFJldXhmK1R6Y01QM0I1UHlUNVlCZz09&sa=D&source=calendar&ust=1631129180760022&usg=AOvVaw3bCqoazIqsF4vHbpdie5x9 Lab]
+
+-- [https://berkeley.zoom.us/j/91449557862?pwd=TWhZVjAwVlRUaXR1WXBDK3BBM05wQT09 Jingshen's OH]
+
+-- [https://www.google.com/url?q=https://berkeley.zoom.us/j/93244607966?pwd%3DOCs0SmtHK1phQnJLbmVoNWhxM2dxQT09&sa=D&source=calendar&ust=1631128943221553&usg=AOvVaw3UzdcFwziM84i-ZK2Pzr4a Lei's OH]
+
+- [Syllabus.pdf Syllabus]
+
+- [https://bcourses.berkeley.edu/courses/1508340/external_tools/70734 Lecture videos at bCourses]
+
+- [https://calendar.google.com/calendar/u/0?cid=Y19xN2RldGZvbmJvZDgzcWNtN3B0OHVwZW01MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t Link to Google calendar for the course]
+
+- Course Surveys
+
+-- [https://docs.google.com/forms/d/e/1FAIpQLSeYz5qHXLbkRDFYaDWpNOFYKtZ-rLmzxabSigXrpJ5upBsJWQ/viewform?usp=sf_link Lab time change]
+
+
+== Grading
+
+- Homework assignments(65%):
+
+-- Biweekly
+
+-- Drop lowest score; Allow one late submission (no more than 24 hours)
+
+- Final project write-up and presentation(35%)
