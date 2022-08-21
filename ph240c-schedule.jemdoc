@@ -1,32 +1,32 @@
 # jemdoc: menu{MENU}{ph240c-schedule.html}
-= PH C240C/STAT C245C| Fall 2021
+= PH C240C/STAT C245C| Fall 2022
 *Biostatistical Methods: Computational Statistics with Application in Biology and Medicine*
 
 == Class schedule
 ~~~
 {}{table}{TABLENAME}
 *Date*        | *Topic*       | *Lecture Notes*         |  *Reminder*        ||
-Aug. 25     | No Class   |    -                  |        ||
+Aug. 24     | No Class   |    -                  |        ||
 | *Introduction and Scope*  | | ||
-Sep. 01     | Introduction and Scope | [notes/Lecture_01_Scope_and_Intro.pdf Lecture01]  | ||
+Aug. 31     | Introduction and Scope | [notes/Lecture_01_Scope_and_Intro.pdf Lecture01]  | ||
 | *Supervised learning* |  | ||
-Sep. 08     | GLM/SVM   |    [notes/Lecture_02_GLM_SVM.pdf Lecture02]      |   ||
-Sep. 15     | Empirical Risk Minimization and Kernel Methods | [notes/Lecture_03_Empirical_Risk_Kernel.pdf Lecture03] |  ||
-Sep. 22     | Metric Learning | [notes/Lecture_04_Metric_Learning.pdf Lecture04] | Due of Homework01 ||
-Sep. 29     | Tree based Methods: CART | [notes/Lecture_05_Trees.pdf Lecture05] |  ||
-Oct. 06     | Tree based Methods: Bagging and Boosting | [notes/Lecture_06_Ensemble_methods.pdf Lecture06] |  ||
+Sep. 07     | GLM/SVM   |    [notes/Lecture_02_GLM_SVM.pdf Lecture02]      |   ||
+Sep. 14     | Empirical Risk Minimization and Kernel Methods | [notes/Lecture_03_Empirical_Risk_Kernel.pdf Lecture03] |  ||
+Sep. 21     | Metric Learning | [notes/Lecture_04_Metric_Learning.pdf Lecture04] | Due of Homework01 ||
+Sep. 28     | Tree based Methods: CART | [notes/Lecture_05_Trees.pdf Lecture05] |  ||
+Oct. 05     | Tree based Methods: Bagging and Boosting | [notes/Lecture_06_Ensemble_methods.pdf Lecture06] |  ||
 | *Semi-supervised learning*  | | ||
-Oct. 13     | Semi-supervised learning  | [notes/Lecture_07_Semi-supervised_learning.pdf Lecture07] | ||
+Oct. 12     | Semi-supervised learning  | [notes/Lecture_07_Semi-supervised_learning.pdf Lecture07] | ||
 | *Neural Networks*   | | ||
-Oct. 20     | Neural Networks  | [notes/Lecture_08_Neural_Networks.pdf Lecture08] | ||
+Oct. 19     | Neural Networks  | [notes/Lecture_08_Neural_Networks.pdf Lecture08] | ||
 | *A Gentle Introduction to Deep Learning* |  | ||
-Oct. 27    | A Gentle Introduction to Deep Learning | Lecture09 | ||
+Oct. 26    | A Gentle Introduction to Deep Learning | Lecture09 | ||
 | *Streaming Data Analyses in Electronic Medical Record Data*  |  | ||
-Nov. 03     | Streaming Data Analyses in Electronic Medical Record Data | [notes/Lecture_11_Streaming_Data_Analyses_in_Electronic_Medical_Record_Data.pdf Lecture11] | ||
+Nov. 02     | Streaming Data Analyses in Electronic Medical Record Data | [notes/Lecture_11_Streaming_Data_Analyses_in_Electronic_Medical_Record_Data.pdf Lecture11] | ||
 | *Causal Inference in Healthcare and Medicine*  |  | ||
-Nov. 10     | Nature's Experiments: Mendelian Randomization | Lecture12 |  ||
-Nov. 17     | Bayesian Inference and Design of Experiments | [notes/Lecture_13_Design_of_Experiments.pdf Lecture13] | ||
-Nov. 24     | No Class(Thanksgiving break)  |  |  ||
-Dec. 01     |  Adaptive Clinical Trial and Reinforcement Learning | [notes/Lecture_14_Adaptive_Clinical_Trial_and_Reinforcement_Learning.pdf Lecture14] | ||
-Dec. 08     | Final in-class presentation | |
+Nov. 09     | Nature's Experiments: Mendelian Randomization | Lecture12 |  ||
+Nov. 16     | Bayesian Inference and Design of Experiments | [notes/Lecture_13_Design_of_Experiments.pdf Lecture13] | ||
+Nov. 23     | No Class(Thanksgiving break)  |  |  ||
+Nov. 30     |  Adaptive Clinical Trial and Reinforcement Learning | [notes/Lecture_14_Adaptive_Clinical_Trial_and_Reinforcement_Learning.pdf Lecture14] | ||
+Dec. 07     | Final in-class presentation | |
 ~~~
